@@ -39,22 +39,20 @@ $ node qr.js
   BOT FOR YOUR HELP😇
 
 <div align="center">
-<img src="https://github.com/Sew01RaviduManoj01KingAndQueen/imagehosting/blob/00aa7f2685f0114a2111f57149d8f0a27b2481c9/VID-20210724-WA0003.gif" />
+᳆⃞⃚🎓𝐓𝐄𝐂𝐍𝐎�҈҉⃝Ｍ Ａ F I Ａ🇱🇰𖤐
   </div>
 
-- [RavinduManoj](https://github.com/RavinduManoj)
-- [@RavinduManoj](https://t.me/RavinduManoj)
+- [᳆⃞⃚🎓𝐓𝐄𝐂𝐍𝐎�҈҉⃝Ｍ Ａ F I Ａ🇱🇰𖤐 BOT](https://chat.whatsapp.com/E0nLYIXyOWOFyDQ9EvdzFX)
+- [᳆⃞⃚🎓𝐓𝐄𝐂𝐍𝐎�҈҉⃝Ｍ Ａ F I Ａ🇱🇰𖤐 EHI AND SKS ](https://chat.whatsapp.com/E5r3b8wkqIU6fhTcm9n2H1)
 
 
-<div align="center">
-  <img src="https://github.com/RavinduManoj/imagehosting/blob/e18b9131ed1b5ec87d58359781c2a9c1044df810/temp_user_profile1621662133773.jpeg" width="250" height="250">
   
   
-  <h1>🍁  Whatsapp Bot By Ravindu Manoj  🍁</h1>
+  <h1>🍁  Whatsapp Bot By ᳆⃞⃚🎓𝐓𝐄𝐂𝐍𝐎�҈҉⃝Ｍ Ａ F I Ａ🇱🇰𖤐 🍁</h1>
   <h1>🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰</h1>
 </div>
 <p align="center">
-    SewQueen project - Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp.
+    ᳆⃞⃚🎓𝐓𝐄𝐂𝐍𝐎�҈҉⃝Ｍ Ａ F I Ａ🇱🇰𖤐 project - Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp.
     <br>
         <a href= >Telegram Number</a> |
         <a href=>Telegram Group</a> |
@@ -69,7 +67,7 @@ $ node qr.js
 ## 🇱🇰 🔎 What is᳆⃞⃚🎓𝐓𝐄𝐂𝐍𝐎�҈҉⃝Ｍ Ａ F I Ａ🇱🇰𖤐
 
  ?
-**SewQueen,** is a WhatsApp helper bot written by [Ravindu Manoj](https://github.com/RavinduManoj). Does not log into your account It is written on WhatsApp Web API.
+**᳆⃞⃚🎓𝐓𝐄𝐂𝐍𝐎�҈҉⃝Ｍ Ａ F I Ａ🇱🇰𖤐,** is a WhatsApp helper bot written by ᳆⃞⃚🎓𝐓𝐄𝐂𝐍𝐎�҈҉⃝Ｍ Ａ F I Ａ🇱🇰𖤐https://chat.whatsapp.com/E0nLYIXyOWOFyDQ9EvdzFX. Does not log into your account It is written on WhatsApp Web API.
 
 <h1>🇱🇰 Setup </h1>
 
@@ -77,8 +75,7 @@ $ node qr.js
 
 ##
 
-### ⚒️ Setup Wiki - Kurulum [Full Guide - By Ravindu Manoj]
-[![Setup - Raviya](https://github.com/RavinduManoj/imagehosting/blob/7d17c40df5099525556eb014b20a13eca4ac1176/20210628_090852.png?size=75 )](https://github.com/RavinduManoj/RaviyaBot/wiki)
+### ⚒️ Setup Wiki - Kurulum [Full Guide - By ᳆⃞⃚🎓𝐓𝐄𝐂𝐍𝐎�҈҉⃝Ｍ Ａ F I Ａ🇱🇰𖤐 ]
 
 ##
 <details>
@@ -96,34 +93,17 @@ By establishing the ᳆⃞⃚🎓𝐓𝐄𝐂𝐍𝐎�҈҉⃝Ｍ Ａ F I Ａ�
 , you are deemed to have accepted these responsibilities.
 ```
 
-<div align="center">
-<img src="https://github.com/Sew01RaviduManoj01KingAndQueen/imagehosting/blob/00aa7f2685f0114a2111f57149d8f0a27b2481c9/VID-20210724-WA0003.gif" />
-  </div>p
-</details>
 
 ##🇱🇰 Developer 🍁
 
-[![RAVINDU MANOJ](https://bit.ly/3AyW139)](https://github.com/Sew01RaviduManoj01KingAndQueen/Sew01RaviduManoj01KingAndQueen#Readme.md)
-
-## Thanks To
-- [@adiwajshing](https://github.com/adiwajshing) for coded [Baileys](https://github.com/adiwajshing/Baileys) 
-
-## License
-This project is protected by `GNU General Public Licence v3.0` license.
-
-### Disclaimer
-`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
-
-<div align="center">
-  <img src="https://github.com/RavinduManoj/imagehosting/blob/7d17c40df5099525556eb014b20a13eca4ac1176/IMG_20210628_090553.jpg" width="250" height="250">
-  <h1>🍁  Whatsapp Bot by ᳆⃞⃚🎓𝐓𝐄𝐂𝐍𝐎�҈҉⃝Ｍ Ａ F I Ａ🇱🇰𖤐
+🍁  Whatsapp Bot by ᳆⃞⃚🎓𝐓𝐄𝐂𝐍𝐎�҈҉⃝Ｍ Ａ F I Ａ🇱🇰𖤐
 
    🍁</h1>
   <h1>🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰</h1>
 </div> 
 
 <div align="center">
-<img src="https://github.com/Sew01RaviduManoj01KingAndQueen/imagehosting/blob/00aa7f2685f0114a2111f57149d8f0a27b2481c9/VID-20210724-WA0003.gif" />
+᳆⃞⃚🎓𝐓𝐄𝐂𝐍𝐎�҈҉⃝Ｍ Ａ F I Ａ🇱🇰𖤐
   </div>
   
 <details>
@@ -131,7 +111,7 @@ This project is protected by `GNU General Public Licence v3.0` license.
 
  Features</b></summary>
     
-## 🇱🇰 SewQueen Features
+## 🇱 🇰᳆⃞⃚🎓𝐓𝐄𝐂𝐍𝐎�҈҉⃝Ｍ Ａ F I Ａ🇱🇰𖤐  Features
 
 | All Features 📢|Available ☑️|Version 🔎|
 | ------------- | ------------ | ---------- |
@@ -285,8 +265,7 @@ This project is protected by `GNU General Public Licence v3.0` license.
 | .scam online| It shows you online for 5 minutes.|
 | .scam stop| Stops fake actions.|
 
-<div align="center">
-<img src="https://github.com/Sew01RaviduManoj01KingAndQueen/imagehosting/blob/00aa7f2685f0114a2111f57149d8f0a27b2481c9/VID-20210724-WA0003.gif" />
+<div align="center">᳆⃞⃚🎓𝐓𝐄𝐂𝐍𝐎�҈҉⃝Ｍ Ａ F I Ａ🇱🇰𖤐
   </div>
 
 
@@ -306,6 +285,5 @@ This project is protected by `GNU General Public Licence v3.0` license.
 | .ganstyle| Combines pictures with the image link in Config Vars with the help of artificial intelligence.|
 
 <div align="center">
-<img src="https://github.com/Sew01RaviduManoj01KingAndQueen/imagehosting/blob/00aa7f2685f0114a2111f57149d8f0a27b2481c9/VID-20210724-WA0003.gif" />
-  </div>
+᳆⃞⃚🎓𝐓𝐄𝐂𝐍𝐎�҈҉⃝Ｍ Ａ F I Ａ🇱🇰𖤐
 </details>
