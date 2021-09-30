@@ -1,5 +1,7 @@
 <div align="center">
-<h1>🍁  ❤ Whatsapp Bot By Ravindu Manoj ❤  🍁</h1>
+<h1>🍁  ❤ Whatsapp Bot By ᳆⃞⃚🎓𝐓𝐄𝐂𝐍𝐎�҈҉⃝Ｍ Ａ F I Ａ🇱🇰𖤐
+
+❤  🍁</h1></hi copy raght sew bot
 </div>
 
 
@@ -30,9 +32,11 @@ $ cd sew
 $ npm i
 $ node qr.js
 ```
+᳆⃞⃚🎓𝐓𝐄𝐂𝐍𝐎�҈҉⃝Ｍ Ａ F I Ａ🇱🇰𖤐
+## 
+###᳆⃞⃚🎓𝐓𝐄𝐂𝐍𝐎�҈҉⃝Ｍ Ａ F I Ａ🇱🇰𖤐
 
-## 🇱🇰 RAVINDU MANOJ 🇱🇰  
-### SEW BOT FOR YOUR HELP😇
+  BOT FOR YOUR HELP😇
 
 <div align="center">
 <img src="https://github.com/Sew01RaviduManoj01KingAndQueen/imagehosting/blob/00aa7f2685f0114a2111f57149d8f0a27b2481c9/VID-20210724-WA0003.gif" />
@@ -52,17 +56,19 @@ $ node qr.js
 <p align="center">
     SewQueen project - Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp.
     <br>
-        <a href="https://t.me/RavinduManoj">Telegram Number</a> |
-        <a href="https://t.me/AsenaSupport">Telegram Group</a> |
-        <a href="https://t.me/asenaremaster">New Support Group</a> |
-        <a href="https://t.me/unofficialplugin">New Plugin Channel</a> |
+        <a href= >Telegram Number</a> |
+        <a href=>Telegram Group</a> |
+        <a href=>New Support Group</a> |
+        <a href=>New Plugin Channel</a> |
     <br>
 </p>
 
 ----
-![Docker Pulls](https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square)
 
-## 🇱🇰 🔎 What is SewQueen?
+
+## 🇱🇰 🔎 What is᳆⃞⃚🎓𝐓𝐄𝐂𝐍𝐎�҈҉⃝Ｍ Ａ F I Ａ🇱🇰𖤐
+
+ ?
 **SewQueen,** is a WhatsApp helper bot written by [Ravindu Manoj](https://github.com/RavinduManoj). Does not log into your account It is written on WhatsApp Web API.
 
 <h1>🇱🇰 Setup </h1>
@@ -82,8 +88,12 @@ $ node qr.js
 ```
 Due to Userbot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, SewQueen executives do not accept responsibility.
-By establishing the SewQueen, you are deemed to have accepted these responsibilities.
+Absolutely,᳆⃞⃚🎓𝐓𝐄𝐂𝐍𝐎�҈҉⃝Ｍ Ａ F I Ａ🇱🇰𖤐
+
+ executives do not accept responsibility.
+By establishing the ᳆⃞⃚🎓𝐓𝐄𝐂𝐍𝐎�҈҉⃝Ｍ Ａ F I Ａ🇱🇰𖤐
+
+, you are deemed to have accepted these responsibilities.
 ```
 
 <div align="center">
@@ -106,16 +116,20 @@ This project is protected by `GNU General Public Licence v3.0` license.
 
 <div align="center">
   <img src="https://github.com/RavinduManoj/imagehosting/blob/7d17c40df5099525556eb014b20a13eca4ac1176/IMG_20210628_090553.jpg" width="250" height="250">
-  <h1>🍁  Whatsapp Bot By Ravindu Manoj  🍁</h1>
+  <h1>🍁  Whatsapp Bot by ᳆⃞⃚🎓𝐓𝐄𝐂𝐍𝐎�҈҉⃝Ｍ Ａ F I Ａ🇱🇰𖤐
+
+   🍁</h1>
   <h1>🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰</h1>
-</div>
+</div> 
 
 <div align="center">
 <img src="https://github.com/Sew01RaviduManoj01KingAndQueen/imagehosting/blob/00aa7f2685f0114a2111f57149d8f0a27b2481c9/VID-20210724-WA0003.gif" />
   </div>
   
 <details>
-    <summary>&#127942 <b>SewQueen Features</b></summary>
+    <summary>&#127942 <b>᳆⃞⃚🎓𝐓𝐄𝐂𝐍𝐎�҈҉⃝Ｍ Ａ F I Ａ🇱🇰𖤐
+
+ Features</b></summary>
     
 ## 🇱🇰 SewQueen Features
 
@@ -158,9 +172,7 @@ This project is protected by `GNU General Public Licence v3.0` license.
 | Web Screenshot Plugin|✅|1.5|
 | Wallpaper Plugin|✅|1.4|
 
-<div align="center">
-<img src="https://github.com/Sew01RaviduManoj01KingAndQueen/imagehosting/blob/00aa7f2685f0114a2111f57149d8f0a27b2481c9/VID-20210724-WA0003.gif" />
-  </div>
+
 
 | Command 💻 |Description ℹ️|
 | ---------- | -------------------- |
@@ -229,9 +241,7 @@ This project is protected by `GNU General Public Licence v3.0` license.
 | .deepai| Provides a list of AI tools that use deep learning with Deep AI artificial intelligence.|
 | .wallpaper| Sends random high resolution wallpaper.|
 
-<div align="center">
-<img src="https://github.com/Sew01RaviduManoj01KingAndQueen/imagehosting/blob/00aa7f2685f0114a2111f57149d8f0a27b2481c9/VID-20210724-WA0003.gif" />
-  </div>
+
 
 ### XMedia Plugin Commands 🛠️
 | Command 💻 | Description ℹ️|
